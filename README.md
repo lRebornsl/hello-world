@@ -37,8 +37,8 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Html</a></li>
-    <li><a href="https://reactjs.org/">Css</a></li>
+    <li>Html</li>
+    <li>Css</li>
   </ul>
 </details>
 
